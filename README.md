@@ -1,4 +1,4 @@
-#📊 Amazon Dataset Analysis Using Power BI  
+# 📊Amazon Dataset Analysis Using Power BI  
 
 ## Project Overview  
 This project involves analyzing a dataset containing ratings of the top 1,000 Amazon products. The goal was to clean, transform, and explore the data to extract valuable insights.  
